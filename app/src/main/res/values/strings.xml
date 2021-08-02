@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LessonWork</string>
+    <string name="app_name">CalcuDim</string>
     <string name="clickCount">Counter %d</string>
     <string name="ClickNum">ClickNum</string>
     <string name="_7">7</string>
